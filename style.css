@@ -1,3 +1,9 @@
-body {background-color: aquamarine;}
+body {background-color: rgb(182, 127, 255);}
 
- header{background-color: blueviolet;}
+ header{background-color: rgb(71, 30, 216);
+ display: flex;
+justify-content: space-around;
+}
+       
+ 
+       .imagem{width: 13%;}
