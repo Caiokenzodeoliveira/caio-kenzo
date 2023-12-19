@@ -1,9 +1,12 @@
-body {background-color: rgb(182, 127, 255);}
+body {background-color: rgb(231, 228, 235);}
 
- header{background-color: rgb(71, 30, 216);
+ header{background-color: rgb(16, 47, 221);
  display: flex;
 justify-content: space-around;
 }
        
  
        .imagem{width: 13%;}
+       .carro{width: 40%;
+       text-align: center;
+display: flex;}
